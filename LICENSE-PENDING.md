@@ -1,7 +1,8 @@
-# License — Pending Contributor Sign-Off
 
-© 2026 JeevaRaksha Contributors (JeevaRaksha Team).
+# License – Pending Permission Review
 
-An open-source license (such as MIT or Apache-2.0) has **not yet been assigned** to this repository pending explicit written confirmation from all contributors that they grant the required rights.
+No open-source license has been assigned to this repository.
 
-Until a formal `LICENSE` file is added by the project owners, all rights remain reserved by the contributors. Third-party bundled libraries retain their respective open-source licenses (documented in `docs/security.md`).
+This repository may contain work contributed by multiple individuals. Rights to each contribution remain with its respective rights holder. This notice does not grant permission to reuse, redistribute, or sublicense contributed material.
+
+Third-party libraries and bundled components remain subject to their respective licenses, as documented in `docs/security.md`.
