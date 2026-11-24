@@ -1,6 +1,6 @@
 # License — Pending Contributor Sign-Off
 
-© 2026 JeevaRaksha Contributors (Ullas L, Shafeeq Ahmad, Sunil M, Sanjay T).
+© 2026 JeevaRaksha Contributors (JeevaRaksha Team).
 
 An open-source license (such as MIT or Apache-2.0) has **not yet been assigned** to this repository pending explicit written confirmation from all contributors that they grant the required rights.
 
