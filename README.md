@@ -71,5 +71,5 @@ npm run test:e2e
 
 ## 8. Version, Contributors & License
 - **Version:** `v13.1.3` (`v13.1.3-academic-prototype`, 2026-11-24)
-- **Team Credits (subject to contributor permission):** Ullas L, Shafeeq Ahmad, Sunil M, Sanjay T
+- **Team Credits (subject to contributor permission): JeevaRaksha Team
 - **License:** Pending written sign-off from all contributors ([`LICENSE-PENDING.md`](./LICENSE-PENDING.md)).
